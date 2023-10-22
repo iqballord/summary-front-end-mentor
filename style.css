@@ -1,0 +1,85 @@
+/* styles.css */
+.container{
+ position:flex;
+}
+/* Styles for the "result" block */
+.result {
+  /* Add styles for the container if needed */
+}
+
+.result__heading {
+  /* Add styles for the heading */
+}
+
+.result__score {
+  /* Add styles for the score container */
+}
+
+.result__score__result {
+  /* Add styles for the numerical score */
+}
+
+.result__score__range {
+  /* Add styles for the score range */
+}
+
+.result__description {
+  /* Add styles for the description container */
+}
+
+.result__description__result {
+  /* Add styles for the result description */
+}
+
+.result__description__explanation {
+  /* Add styles for the explanation text */
+}
+
+/* Styles for the "summary" block */
+.summary {
+  /* Add styles for the container if needed */
+}
+
+.summary__items {
+  /* Add styles for the list of items */
+}
+
+.summary__item {
+  /* Add styles for each list item */
+}
+
+.summary__item--danger {
+  /* Add styles for the "danger" modifier */
+}
+
+.summary__item--warning {
+  /* Add styles for the "warning" modifier */
+}
+
+.summary__item--success {
+  /* Add styles for the "success" modifier */
+}
+
+.summary__item--info {
+  /* Add styles for the "info" modifier */
+}
+
+.summary__item-content {
+  /* Add styles for the content within each list item */
+}
+
+.summary__item-icon {
+  /* Add styles for the icon within each list item */
+}
+
+.summary__item-text {
+  /* Add styles for the text within each list item */
+}
+
+.summary__item-score {
+  /* Add styles for the score within each list item */
+}
+
+.summary__button {
+  /* Add styles for the button */
+}
